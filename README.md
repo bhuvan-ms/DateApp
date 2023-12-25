@@ -1,1 +1,1 @@
-Dateing App using .NET 7 Web API and Angular.
+Dating App using .NET 7 Web API and Angular.
